@@ -1,6 +1,6 @@
 ![](src/eventonthego.png)
 
-#EventOnTheGo
+# EventOnTheGo
 
 ![](src/1.png)
 
