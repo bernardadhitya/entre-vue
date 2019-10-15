@@ -18,4 +18,4 @@ The booking process is pretty straight-forward. All you need to do is select the
 
 ![](src/4.png)
 
-Once the booking is done, you may check on other categories to spice your event up. They will be stored in the "Booking" tab, where they will accumulate the total price of the bookings you made. The application will handle the process, so that a single purchase will handle all your bookings.
+Once the booking is done, you may check on other categories to spice your event up. They will be stored in the "Booking" tab, where they will accumulate the total price of the bookings you made. The application will handle the process, so that a single purchase will handle all your bookings. 
